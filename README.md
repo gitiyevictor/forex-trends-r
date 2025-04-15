@@ -26,5 +26,5 @@ forex-trends-r/ ├── data/ │ └── kes_usd_2020_2024.csv # Simulated 
 ## Author
 
 **Victor Gitiye**  
-📍 JKUAT | 3rd Year Statistics Student  
- [GitHub](https://github.com/gitiyevictor) | 🧠 R + Data Analysis | Aspiring Consultant
+ JKUAT | 3rd Year Statistics Student  
+ [GitHub](https://github.com/gitiyevictor) |  R + Data Analysis | Aspiring Consultant
